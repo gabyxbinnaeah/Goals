@@ -1,0 +1,13 @@
+.goal-buttnToggle{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.clickSeeDescription{
+    margin-top:10px;
+}
+.warningText{
+    color: black;
+}
+#goalComponentBinding{
+    text-transform: capitalize;
+}
